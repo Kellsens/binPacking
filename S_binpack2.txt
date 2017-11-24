@@ -1,0 +1,64 @@
+ILS 2 | #bins 100 | Peso Total 2196259 | Tempo(ms) 10567
+ILS 2 | #bins 101 | Peso Total 2200548 | Tempo(ms) 8522
+ILS 2 | #bins 103 | Peso Total 2254179 | Tempo(ms) 5076
+ILS 2 | #bins 101 | Peso Total 2214124 | Tempo(ms) 8125
+ILS 2 | #bins 102 | Peso Total 2244118 | Tempo(ms) 5381
+ILS 2 | #bins 103 | Peso Total 2235164 | Tempo(ms) 5272
+ILS 2 | #bins 102 | Peso Total 2251858 | Tempo(ms) 7028
+ILS 2 | #bins 104 | Peso Total 2286640 | Tempo(ms) 9257
+ILS 2 | #bins 106 | Peso Total 2341569 | Tempo(ms) 4854
+ILS 2 | #bins 102 | Peso Total 2226300 | Tempo(ms) 15632
+ILS 2 | #bins 106 | Peso Total 2325594 | Tempo(ms) 6566
+ILS 2 | #bins 102 | Peso Total 2243651 | Tempo(ms) 4293
+ILS 2 | #bins 107 | Peso Total 2329465 | Tempo(ms) 9365
+ILS 2 | #bins 104 | Peso Total 2261074 | Tempo(ms) 10816
+ILS 2 | #bins 100 | Peso Total 2213095 | Tempo(ms) 14641
+ILS 2 | #bins 107 | Peso Total 2323514 | Tempo(ms) 7216
+ILS 2 | #bins 98  | Peso Total 2149259 | Tempo(ms) 4815
+ILS 2 | #bins 101 | Peso Total 2205207 | Tempo(ms) 8420
+ILS 2 | #bins 102 | Peso Total 2203925 | Tempo(ms) 7593
+ILS 2 | #bins 103 | Peso Total 2257022 | Tempo(ms) 8810
+
+
+ILS 3 | #bins 99  | Peso Total 2208783 | Tempo(ms) 10567
+ILS 3 | #bins 101 | Peso Total 2205194 | Tempo(ms) 8522
+ILS 3 | #bins 103 | Peso Total 2264323 | Tempo(ms) 5076
+ILS 3 | #bins 102 | Peso Total 2220870 | Tempo(ms) 8125
+ILS 3 | #bins 103 | Peso Total 2239634 | Tempo(ms) 5381
+ILS 3 | #bins 104 | Peso Total 2233716 | Tempo(ms) 5272
+ILS 3 | #bins 104 | Peso Total 2257276 | Tempo(ms) 7028
+ILS 3 | #bins 105 | Peso Total 2287346 | Tempo(ms) 9257
+ILS 3 | #bins 107 | Peso Total 2340507 | Tempo(ms) 4854
+ILS 3 | #bins 102 | Peso Total 2237558 | Tempo(ms) 15632
+ILS 3 | #bins 106 | Peso Total 2329536 | Tempo(ms) 6566
+ILS 3 | #bins 103 | Peso Total 2238791 | Tempo(ms) 4293
+ILS 3 | #bins 106 | Peso Total 2340539 | Tempo(ms) 9365
+ILS 3 | #bins 104 | Peso Total 2271464 | Tempo(ms) 10816
+ILS 3 | #bins 101 | Peso Total 2214681 | Tempo(ms) 14641
+ILS 3 | #bins 107 | Peso Total 2330150 | Tempo(ms) 7216
+ILS 3 | #bins 99  | Peso Total 2144975 | Tempo(ms) 4815
+ILS 3 | #bins 101 | Peso Total 2214749 | Tempo(ms) 8420
+ILS 3 | #bins 102 | Peso Total 2226009 | Tempo(ms) 7593
+ILS 3 | #bins 103 | Peso Total 2267832 | Tempo(ms) 8810
+
+
+GVNS | #bins 100 | Peso Total 2201897 | Tempo(ms) 14575
+GVNS | #bins 100 | Peso Total 2207540 | Tempo(ms) 2535
+GVNS | #bins 103 | Peso Total 2260663 | Tempo(ms) 10075
+GVNS | #bins 100 | Peso Total 2225440 | Tempo(ms) 2283
+GVNS | #bins 102 | Peso Total 2241134 | Tempo(ms) 8494
+GVNS | #bins 103 | Peso Total 2236718 | Tempo(ms) 9089
+GVNS | #bins 102 | Peso Total 2255478 | Tempo(ms) 2799
+GVNS | #bins 104 | Peso Total 2292168 | Tempo(ms) 13447
+GVNS | #bins 106 | Peso Total 2344235 | Tempo(ms) 13797
+GVNS | #bins 102 | Peso Total 2231944 | Tempo(ms) 19946
+GVNS | #bins 106 | Peso Total 2325350 | Tempo(ms) 11907
+GVNS | #bins 102 | Peso Total 2242035 | Tempo(ms) 7947
+GVNS | #bins 106 | Peso Total 2337937 | Tempo(ms) 8422
+GVNS | #bins 103 | Peso Total 2271908 | Tempo(ms) 7513
+GVNS | #bins 100 | Peso Total 2214517 | Tempo(ms) 2453
+GVNS | #bins 106 | Peso Total 2334986 | Tempo(ms) 9092
+GVNS | #bins 98  | Peso Total 2153953 | Tempo(ms) 8637
+GVNS | #bins 100 | Peso Total 2213681 | Tempo(ms) 2864
+GVNS | #bins 101 | Peso Total 2225687 | Tempo(ms) 9830
+GVNS | #bins 102 | Peso Total 2267058 | Tempo(ms) 2951
